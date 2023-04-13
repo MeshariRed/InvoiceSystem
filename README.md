@@ -28,10 +28,10 @@ And anther class called "InvoiceTest" to testthe main class "Invoice".
 
 ## Quick revision
 It has four private instance variables: 
-1 - "theNumber" (a String representing the invoice number),
-2 - "theDescription" (a String representing the description of the product or service),
-3 - "theQuantity" (an integer representing the quantity of the product or service),
-4 - "pricePreItem" (a double representing the price per item of the product or service).
+- "theNumber" (a String representing the invoice number),
+- "theDescription" (a String representing the description of the product or service),
+- "theQuantity" (an integer representing the quantity of the product or service),
+- "pricePreItem" (a double representing the price per item of the product or service).
 
 ## Features 
 The class has a constructor that takes in values for all four instance variables and sets them accordingly. It also has getter
