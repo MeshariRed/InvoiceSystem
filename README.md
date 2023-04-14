@@ -18,8 +18,8 @@
         <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" />
     </a><br>
     
-    <a href="https://github.com/MeshariRed/InvoiceSystem/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" alt="LICENSE">
+    <a href="https://github.com/MeshariRed/InvoiceSystem/LICENSE">
+        <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" title="LICENSE">
     </a>
     <img src="https://img.shields.io/github/watchers/MeshariRed/InvoiceSystem.svg" alt="Watching">
     <img src="https://img.shields.io/github/forks/MeshariRed/InvoiceSystem.svg" alt="Forks">
