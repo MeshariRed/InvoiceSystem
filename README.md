@@ -17,10 +17,6 @@
     <a href="https://GitHub.com/MeshariRed">
         <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" />
     </a><br>
-    
-    <a href="https://github.com/MeshariRed/InvoiceSystem/LICENSE">
-        <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" title="LICENSE">
-    </a>
     <img src="https://img.shields.io/github/watchers/MeshariRed/InvoiceSystem.svg" alt="Watching">
     <img src="https://img.shields.io/github/forks/MeshariRed/InvoiceSystem.svg" alt="Forks">
     <img src="https://img.shields.io/github/stars/MeshariRed/InvoiceSystem.svg" alt="Stars">
