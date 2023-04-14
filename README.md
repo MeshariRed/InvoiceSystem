@@ -12,9 +12,11 @@
     </a>
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"><br> 
     <a href="https://github.com/MeshariRed">
-        <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>">
+        <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>
+    </a><br>
+    <a href="https://github.com/MeshariRed/InvoiceSystem/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" alt="LICENSE">
     </a>
-    <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" alt="LICENSE">
     <img src="https://img.shields.io/github/watchers/MeshariRed/JavaServer.svg" alt="Watching">
     <img src="https://img.shields.io/github/forks/MeshariRed/JavaServer.svg" alt="Forks">
     <img src="https://img.shields.io/github/stars/MeshariRed/JavaServer.svg" alt="Stars">
