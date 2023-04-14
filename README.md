@@ -7,13 +7,12 @@
 </h3>
 
 <p align="center">
-    <a href="https://python.org">
-        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
+    <a href="https://Java.org">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="made-with-Java">
     </a>
     <a href="https://GitHub.com/MeshariRed">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
-    <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
     <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>
     <img src="https://img.shields.io/github/license/MeshariRed/InvoiceSystem.svg" alt="LICENSE">
     <img src="https://img.shields.io/github/watchers/MeshariRed/InvoiceSystem.svg" alt="Watching">
