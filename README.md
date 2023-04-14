@@ -13,7 +13,7 @@
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"><br>
     <a href="https://GitHub.com/MeshariRed">
         <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" />
-    </a>
+    </a><br>
     <img src="https://img.shields.io/github/license/MeshariRed/InvoiceSystem.svg" alt="LICENSE">
     <img src="https://img.shields.io/github/watchers/MeshariRed/InvoiceSystem.svg" alt="Watching">
     <img src="https://img.shields.io/github/forks/MeshariRed/InvoiceSystem.svg" alt="Forks">
