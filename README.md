@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://Java.org">
+    <a href="https://www.oracle.com/">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="made-with-Java">
     </a>
     <a href="https://GitHub.com/MeshariRed">
