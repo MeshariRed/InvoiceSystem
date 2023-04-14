@@ -7,9 +7,11 @@
 </h3>
 
 <p align="center">
+    
     <a href="https://www.oracle.com/">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="made-with-Java">
     </a>
+    
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"><br>
     
     <a href="https://GitHub.com/MeshariRed">
@@ -18,7 +20,7 @@
     
     <a href="https://github.com/MeshariRed/InvoiceSystem/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" alt="LICENSE">
-    </a><br>
+    </a>
     <img src="https://img.shields.io/github/watchers/MeshariRed/InvoiceSystem.svg" alt="Watching">
     <img src="https://img.shields.io/github/forks/MeshariRed/InvoiceSystem.svg" alt="Forks">
     <img src="https://img.shields.io/github/stars/MeshariRed/InvoiceSystem.svg" alt="Stars">
