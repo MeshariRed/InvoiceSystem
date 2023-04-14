@@ -7,14 +7,10 @@
 </h3>
 
 <p align="center">
-    
     <a href="https://www.oracle.com/">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="made-with-Java">
     </a>
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"><br>
-    <a href="https://GitHub.com/MeshariRed">
-        <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" />
-    </a><br>   
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"><br> 
     <img title="Author" src="https://img.shields.io/badge/Author-MeshariRed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /><br>
     <img src="https://img.shields.io/github/license/MeshariRed/JavaServer.svg" alt="LICENSE">
     <img src="https://img.shields.io/github/watchers/MeshariRed/JavaServer.svg" alt="Watching">
